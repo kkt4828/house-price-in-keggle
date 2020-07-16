@@ -1,2 +1,4 @@
 # house-price-in-keggle
-for beginner (training)
+1 week
+EDA (a little)
+Use Decision Tree

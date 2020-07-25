@@ -1,4 +1,4 @@
 # house-price-in-keggle
-1 week
-EDA (a little)
-Use Decision Tree
+2 week
+EDA (a little + @)
+Use Random Forest

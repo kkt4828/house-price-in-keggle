@@ -1,4 +1,6 @@
 # house-price-in-keggle
 3 week
-EDA (a little + @@)
+
+EDA (50%?)
+
 Use Gradient Boosting Machine(in sklearn)

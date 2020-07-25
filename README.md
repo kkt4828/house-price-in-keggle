@@ -1,4 +1,4 @@
 # house-price-in-keggle
-2 week
-EDA (a little + @)
-Use Random Forest
+3 week
+EDA (a little + @@)
+Use Gradient Boosting Machine(in sklearn)

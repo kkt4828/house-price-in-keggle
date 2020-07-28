@@ -1,6 +1,9 @@
 # house-price-in-keggle
-3 week
+3 weeks
+2020/7/28
 
-EDA (50%?)
+EDA (90%)
+Visualization
+Preprocessing
 
-Use Gradient Boosting Machine(in sklearn)
+Use Gradient Boosting Machine(in python package scikit-learn)

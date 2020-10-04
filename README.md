@@ -1,4 +1,7 @@
 # house-price-in-keggle
-2 week
-EDA (a little + @)
-Use Random Forest
+3 week
+
+EDA (100%)
+HyperParameter(CrossValidation, cv = 10)
+
+Use Gradient Boosting Machine(in sklearn)
